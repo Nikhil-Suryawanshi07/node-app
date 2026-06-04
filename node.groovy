@@ -1,9 +1,9 @@
 pipeline {
-agent label 'node-new'
+agent label 'node'
 
 
 tools {
-    demo-node 'NodeJS-20'
+    nodejs 'NodeJS'
 }
 
 environment {
