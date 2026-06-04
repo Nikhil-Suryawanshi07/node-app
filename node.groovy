@@ -5,7 +5,7 @@ agent{
 
 
 tools {
-    nodejs 'nodejs'
+    nodejs 'demo-node'
 }
 
 environment {
