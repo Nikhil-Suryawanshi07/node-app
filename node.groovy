@@ -9,7 +9,7 @@ tools {
 }
 
 environment {
-    DOCKER_REPO = 'vedantwagh/node-app'
+    DOCKER_REPO = 'nikhil6066/node-app'
     CONTAINER_NAME = 'my-node-container'
 }
 
