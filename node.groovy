@@ -3,7 +3,7 @@ agent any
 
 
 tools {
-    nodejs 'NodeJS-20'
+    demo-node 'NodeJS-20'
 }
 
 environment {
