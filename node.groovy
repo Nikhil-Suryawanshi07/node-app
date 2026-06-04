@@ -1,9 +1,11 @@
 pipeline {
-agent label 'node'
+agent{
+    label 'node'
+} 
 
 
 tools {
-    nodejs 'NodeJS'
+    nodejs 'nodejs'
 }
 
 environment {
